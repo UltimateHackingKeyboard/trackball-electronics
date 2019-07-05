@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.2-f72e74a~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew "(5.0.0)")
 
   (general
     (thickness 1.6)
@@ -10,6 +10,12 @@
   )
 
   (page A3)
+  (title_block
+    (title "UHK60 Trackball module")
+    (rev 1.0.0)
+    (company "Ultimate Gadget Laboratories Kft.")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -34,6 +40,8 @@
     (zone_clearance 0.508)
     (zone_45_only no)
     (trace_min 0.254)
+    (segment_width 0.2)
+    (edge_width 0.1)
     (via_size 0.889)
     (via_drill 0.635)
     (via_min_size 0.889)
@@ -43,8 +51,6 @@
     (uvias_allowed no)
     (uvia_min_size 0.508)
     (uvia_min_drill 0.127)
-    (edge_width 0.1)
-    (segment_width 0.2)
     (pcb_text_width 0.3)
     (pcb_text_size 1.5 1.5)
     (mod_edge_width 0.15)
@@ -54,7 +60,7 @@
     (pad_drill 0.6)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFEF7F)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x00030_ffffffff)
       (usegerberextensions true)
@@ -148,9 +154,9 @@
       (clearance 0.0762))
   )
 
-  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5CE29E9C) (tstamp 5D1D4229)
+  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5D1F4DCE) (tstamp 5D1D4229)
     (at 202.560004 144.468997 180)
-    (fp_text reference REF** (at 0 -7.6) (layer F.SilkS)
+    (fp_text reference SW_MRK1 (at 0 -7.6) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value CMI126603D08 (at 0 8.8) (layer F.Fab)
@@ -169,9 +175,9 @@
     (pad 1 thru_hole circle (at -5.08 0 180) (size 2.5 2.5) (drill 1.2) (layers *.Cu *.Mask))
   )
 
-  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5CE29E9C) (tstamp 5D1D4270)
+  (module ugl:CMI126603D08 locked (layer F.Cu) (tedit 5D1F4DC4) (tstamp 5D1D4270)
     (at 189.260001 144.468997)
-    (fp_text reference REF** (at 0 -7.6) (layer F.SilkS)
+    (fp_text reference SW_MLK1 (at 0 -7.6) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value CMI126603D08 (at 0 8.8) (layer F.Fab)
