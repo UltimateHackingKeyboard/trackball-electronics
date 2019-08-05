@@ -12,7 +12,7 @@
   (page A3)
   (title_block
     (title "UHK Trackball Module")
-    (rev 0.1.0)
+    (rev 1.0.0)
     (company "Ultimate Gadget Laboratories Kft.")
   )
 
@@ -1153,7 +1153,7 @@
   (gr_text 2x (at 190.3 141) (layer F.SilkS)
     (effects (font (size 0.738 0.738) (thickness 0.15148)))
   )
-  (gr_text "PCB ID: trackball_main_0.1.0" (at 195.9 146.8) (layer B.SilkS)
+  (gr_text "PCB ID: trackball_main_1.0.0" (at 195.9 146.8) (layer B.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
   (gr_circle (center 184.15 139.7) (end 184.15 141.35) (layer Eco1.User) (width 0.01))
