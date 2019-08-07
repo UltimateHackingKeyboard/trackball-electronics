@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 42)
+    (drawings 43)
     (tracks 366)
     (zones 0)
     (modules 37)
@@ -1146,6 +1146,9 @@
       (clearance 0.00001))
   )
 
+  (gr_text BP167911-05340H0A (at 208.8 133.1 90) (layer F.SilkS)
+    (effects (font (size 0.75 0.75) (thickness 0.15)))
+  )
   (gr_text C7=C8=0.1uF (at 197.1 124.5) (layer F.SilkS) (tstamp 5D48A1AD)
     (effects (font (size 0.738 0.738) (thickness 0.15014)))
   )
