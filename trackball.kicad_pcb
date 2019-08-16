@@ -73,7 +73,7 @@
     (pad_drill 0.6)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFEF7F)
+    (visible_elements 7FFFEFFF)
     (pcbplotparams
       (layerselection 0x00030_ffffffff)
       (usegerberextensions true)
@@ -318,6 +318,7 @@
 
   (module ugl:UHK_Logo_12x3.4_mm (layer B.Cu) (tedit 0) (tstamp 5D4B747A)
     (at 189.1 135.7 270)
+    (attr virtual)
     (fp_text reference G*** (at 0 0 270) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -888,14 +889,14 @@
     )
   )
 
-  (module ugl:SC-74-TVS (layer F.Cu) (tedit 5C6C5882) (tstamp 5D48A2F0)
+  (module ugl:SC-74-TVS (layer F.Cu) (tedit 5C6C5882) (tstamp 5D56AA1F)
     (at 199.5 137.8 270)
     (path /576A5C90)
     (attr smd)
     (fp_text reference U4 (at 2.2 0) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value ESD (at -2.1 0) (layer F.Fab) hide
+    (fp_text value ESD (at 2.5 1.2 270) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_line (start -1.5 -0.6) (end 1.5 -0.6) (layer F.SilkS) (width 0.15))
@@ -1456,7 +1457,6 @@
   (module ugl:UHK_Male_Pogo_Pin_v2 locked (layer F.Cu) (tedit 5D22F995) (tstamp 5D1D4686)
     (at 209.65 133.000003)
     (path /5768A627)
-    (attr virtual)
     (fp_text reference P2 (at -2.65 -8.700003) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
