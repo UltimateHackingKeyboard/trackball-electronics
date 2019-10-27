@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 44)
+    (drawings 45)
     (tracks 373)
     (zones 0)
     (modules 38)
@@ -1515,6 +1515,7 @@
       (net 4 /VCC_BOTTOM) (clearance 0.0762))
   )
 
+  (gr_circle (center 198.397133 135.916091) (end 198.577411 135.916091) (layer F.SilkS) (width 0.4))
   (gr_line (start 205.5 125.5) (end 205.8 125.2) (layer F.SilkS) (width 0.15))
   (gr_line (start 205.5 126.4) (end 205.5 125.5) (layer F.SilkS) (width 0.15))
   (gr_text "MKL03Z\n32VFK4" (at 188.5 120.25) (layer F.SilkS) (tstamp 5DB4DFED)
