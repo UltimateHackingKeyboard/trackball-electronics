@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:trackball-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -981,11 +980,11 @@ Text Label 5650 4100 3    40   ~ 0
 MOSI
 Text Label 5750 4100 3    40   ~ 0
 SCK
-Text Label 6300 3550 0    50   ~ 0
+Text Label 6300 3550 0    40   ~ 0
 NCS
 Text Label 5750 2500 1    50   ~ 0
 MOTION
-Text Label 4700 3550 2    50   ~ 0
+Text Label 4700 3550 2    40   ~ 0
 SHTDWN
 NoConn ~ 5550 2500
 NoConn ~ 4700 3050
