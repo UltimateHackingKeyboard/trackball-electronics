@@ -897,17 +897,17 @@ Wire Wire Line
 	9950 3700 10350 3700
 Wire Wire Line
 	10350 3700 10350 3600
-Text Label 8950 3900 2    50   ~ 0
+Text Label 8950 3900 2    40   ~ 0
 MISO
-Text Label 8950 3950 2    50   ~ 0
+Text Label 8950 3950 2    40   ~ 0
 SCK
-Text Label 8950 4000 2    50   ~ 0
+Text Label 8950 4000 2    40   ~ 0
 MOSI
-Text Label 8950 4050 2    50   ~ 0
+Text Label 8950 4050 2    40   ~ 0
 NCS
-Text Label 8950 4250 2    50   ~ 0
+Text Label 8950 4250 2    40   ~ 0
 MOTION
-Text Label 8950 4350 2    50   ~ 0
+Text Label 8950 4350 2    40   ~ 0
 SHTDWN
 $Comp
 L ugl:R R4
@@ -982,7 +982,7 @@ Text Label 5750 4100 3    40   ~ 0
 SCK
 Text Label 6300 3550 0    40   ~ 0
 NCS
-Text Label 5750 2500 1    50   ~ 0
+Text Label 5750 2500 1    40   ~ 0
 MOTION
 Text Label 4700 3550 2    40   ~ 0
 SHTDWN
