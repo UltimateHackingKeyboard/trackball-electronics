@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~84~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.1.5-52549c5~86~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
@@ -978,7 +978,7 @@
     (fp_text reference R6 (at -2.1 0) (layer F.SilkS) hide
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value 47 (at -2 -0.1) (layer F.SilkS)
+    (fp_text value 33 (at -2 -0.1) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
@@ -1047,7 +1047,7 @@
     (fp_text reference R1 (at 1.9 0.1) (layer F.SilkS) hide
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value 4.7K (at -4.9 -0.25 270) (layer F.SilkS)
+    (fp_text value 5.1K (at -4.9 -0.25 270) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
@@ -1139,7 +1139,7 @@
     (fp_text reference R4 (at 0 1.1 270) (layer F.SilkS) hide
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value 4.7K (at -0.4 1.15 90) (layer F.SilkS)
+    (fp_text value 5.1K (at -0.4 1.15 90) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
@@ -1185,7 +1185,7 @@
     (fp_text reference R7 (at -2.9 0.3) (layer F.SilkS) hide
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value 47 (at -2.9 0.35 180) (layer F.SilkS)
+    (fp_text value 33 (at -2.9 0.35 180) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
