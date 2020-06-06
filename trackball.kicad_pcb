@@ -194,7 +194,7 @@
   (module ugl:UHK_Male_Pogo_Pin_v2_trackball (layer F.Cu) (tedit 5EDBFCF8) (tstamp 5EDC0321)
     (at 209.65 133.000003)
     (path /5768A627)
-    (fp_text reference P2 (at 0 10.3) (layer F.SilkS)
+    (fp_text reference P2 (at -2.75 1.899997) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
     (fp_text value CONN_5 (at 0 -9.95 180) (layer F.SilkS) hide
@@ -1320,7 +1320,7 @@
     (fp_text reference C4 (at 0 4) (layer F.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)))
     )
-    (fp_text value 0.1uF (at 0 0) (layer B.SilkS)
+    (fp_text value 0.1uF (at 0 0.1) (layer B.SilkS)
       (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start -0.4 -0.5) (end 0.4 -0.5) (layer F.SilkS) (width 0.127))
