@@ -1406,7 +1406,7 @@
     )
   )
 
-  (module ugl:UHK_Male_Pogo_Pin_v2 (layer F.Cu) (tedit 5EDBAE63) (tstamp 5EDC1CD7)
+  (module ugl:UHK_Male_Pogo_Pin_v2 (layer F.Cu) (tedit 5EDBEDB3) (tstamp 5EDC1CD7)
     (at 209.65 133.000003)
     (path /5768A627)
     (fp_text reference P2 (at -2.45 1.899997 90) (layer F.SilkS)
@@ -1446,7 +1446,7 @@
     (fp_arc (start 3.1 6.8) (end 3.1 7.3) (angle -180) (layer Cmts.User) (width 0.15))
     (pad 1 thru_hole roundrect (at -2.75 -6.8) (size 2 1.2) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 4 /VCC_BOTTOM))
-    (pad 2 thru_hole roundrect (at -2.75 -3.4 126) (size 1.8 1.1) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.455)
+    (pad 2 thru_hole roundrect (at -2.75 -3.400003 126) (size 1.8 1.1) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.5)
       (net 3 /SDA_BOTTOM) (clearance 0.1))
     (pad 3 thru_hole roundrect (at -2.75 0 50) (size 2 1.2) (drill 0.7) (layers *.Cu *.Mask) (roundrect_rratio 0.25)
       (net 2 /SCL_BOTTOM))
