@@ -296,7 +296,7 @@ U 1 1 5768A627
 P 900 2750
 F 0 "P2" V 850 2750 50  0000 C CNN
 F 1 "CONN_5" V 950 2750 50  0000 C CNN
-F 2 "ugl:UHK_Male_Pogo_Pin_v2" H 900 2750 60  0001 C CNN
+F 2 "ugl:UHK_Male_Pogo_Pin_v2_trackball" H 900 2750 60  0001 C CNN
 F 3 "" H 900 2750 60  0000 C CNN
 	1    900  2750
 	-1   0    0    -1  
