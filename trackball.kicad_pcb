@@ -12,7 +12,7 @@
   (page A3)
   (title_block
     (title "UHK Trackball Module")
-    (rev 1.3.0)
+    (rev 1.4.0)
     (company "Ultimate Gadget Laboratories Kft.")
   )
 
@@ -1476,7 +1476,7 @@
   (gr_text BP167911-05340H0A (at 208.8 133.1 90) (layer F.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (gr_text "PCB ID: trackball_main_1.3.0" (at 195.9 146.8) (layer B.SilkS)
+  (gr_text "PCB ID: trackball_main_1.4.0" (at 195.9 146.8) (layer B.SilkS)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
   (gr_arc (start 182.649992 114.9) (end 182.65 114.4) (angle -90) (layer Edge.Cuts) (width 0.01))
