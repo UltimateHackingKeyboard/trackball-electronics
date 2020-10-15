@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "UHK Trackball Module"
 Date ""
-Rev "1.4.1"
+Rev "1.5.0"
 Comp "Ultimate Gadget Laboratories Kft."
 Comment1 ""
 Comment2 ""
